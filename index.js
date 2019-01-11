@@ -19,3 +19,5 @@ var funkyFunction = function() {
   }
 }
 var theFunk = funkyFunction()
+var "Function" = function()
+
